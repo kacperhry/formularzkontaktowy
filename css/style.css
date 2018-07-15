@@ -13,7 +13,7 @@ input,
 select,
 textarea {
     width: 50%;
-    color: white;
+    color: black;
     border: 1px solid #97f2f2;
     padding: 5px;
     background-color: #97f2f2;
