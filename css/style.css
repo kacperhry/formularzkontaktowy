@@ -23,7 +23,7 @@ input:focus,
 select:focus,
 textarea:focus {
     background-color: #97f2f2;
-    border: 1px solid white;
+    border: 1px solid black;
 }
 
 input[type="radio"],
